@@ -1,1 +1,0 @@
-# Bilous_ValeraPD-22
