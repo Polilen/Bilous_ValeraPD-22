@@ -1,0 +1,19 @@
+using System;
+class HelloWorld {
+  static void Main() {
+    int x,y;
+    Console.WriteLine( "Введіть х");
+    x = int.Parse(Console.ReadLine());
+    Console.WriteLine( "Введіть y");
+    y = int.Parse(Console.ReadLine());
+    if(x>0 && y>0){
+        Console.WriteLine( "x,y лежать у першій координатній площині");
+    }
+    if(x<0 && y<0){
+        Console.WriteLine( "x,y лежать у третій координатній площині");   
+    }
+    if(x>0 && y<0 || x<0 && y>0){
+        Console.WriteLine( "x,y не лежать ні у першій , ні у третій координатній площині");   
+    }
+  }
+}
