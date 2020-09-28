@@ -1,0 +1,19 @@
+using System;
+class HelloWorld
+{
+    static void Main()
+    {
+        double nn;
+        double nk;
+         Console.Write("Введите ваш nn "); 
+        nn = double.Parse(Console.ReadLine());
+         Console.Write("Введите ваш nk ");
+        nk = double.Parse(Console.ReadLine());
+        decimal result = 0;
+        for (int k = (int)(nn); k <= nk; k++)
+        {
+            result += (decimal)((k*k-(Math.Pow(-1, k+1)*k*k*k)) / (k * k + k+1));
+        }
+    Console.Write("Ответ "+result);
+  }
+}
