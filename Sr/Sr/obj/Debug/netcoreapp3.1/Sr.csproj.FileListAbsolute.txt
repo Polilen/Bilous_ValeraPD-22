@@ -1,0 +1,13 @@
+C:\Users\valera2\Documents\Sr\Sr\bin\Debug\netcoreapp3.1\Sr.exe
+C:\Users\valera2\Documents\Sr\Sr\bin\Debug\netcoreapp3.1\Sr.deps.json
+C:\Users\valera2\Documents\Sr\Sr\bin\Debug\netcoreapp3.1\Sr.runtimeconfig.json
+C:\Users\valera2\Documents\Sr\Sr\bin\Debug\netcoreapp3.1\Sr.runtimeconfig.dev.json
+C:\Users\valera2\Documents\Sr\Sr\bin\Debug\netcoreapp3.1\Sr.dll
+C:\Users\valera2\Documents\Sr\Sr\bin\Debug\netcoreapp3.1\Sr.pdb
+C:\Users\valera2\Documents\Sr\Sr\obj\Debug\netcoreapp3.1\Sr.csprojAssemblyReference.cache
+C:\Users\valera2\Documents\Sr\Sr\obj\Debug\netcoreapp3.1\Sr.AssemblyInfoInputs.cache
+C:\Users\valera2\Documents\Sr\Sr\obj\Debug\netcoreapp3.1\Sr.AssemblyInfo.cs
+C:\Users\valera2\Documents\Sr\Sr\obj\Debug\netcoreapp3.1\Sr.csproj.CoreCompileInputs.cache
+C:\Users\valera2\Documents\Sr\Sr\obj\Debug\netcoreapp3.1\Sr.dll
+C:\Users\valera2\Documents\Sr\Sr\obj\Debug\netcoreapp3.1\Sr.pdb
+C:\Users\valera2\Documents\Sr\Sr\obj\Debug\netcoreapp3.1\Sr.genruntimeconfig.cache
