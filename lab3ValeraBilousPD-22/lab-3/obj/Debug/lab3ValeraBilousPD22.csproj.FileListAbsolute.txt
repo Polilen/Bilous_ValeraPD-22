@@ -1,0 +1,10 @@
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\obj\Debug\lab3ValeraBilousPD22.csprojAssemblyReference.cache
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\obj\Debug\lab3ValeraBilousPD22.csproj.GenerateResource.cache
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\obj\Debug\lab3ValeraBilousPD22.csproj.CoreCompileInputs.cache
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\obj\Debug\lab3ValeraBilousPD22.Form1.resources
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\bin\Debug\lab3ValeraBilousPD22.exe.config
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\bin\Debug\lab3ValeraBilousPD22.exe
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\bin\Debug\lab3ValeraBilousPD22.pdb
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\obj\Debug\lab3ValeraBilousPD22.Properties.Resources.resources
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\obj\Debug\lab3ValeraBilousPD22.exe
+C:\Users\valera2\Documents\lab3ValeraBilousPD-22\lab-3\obj\Debug\lab3ValeraBilousPD22.pdb
