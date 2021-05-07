@@ -1,0 +1,24 @@
+﻿<Window x:Class="lab6ValeraBilousPD22.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab6ValeraBilousPD22"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="650" ResizeMode="NoResize">
+    <Grid>
+        <Canvas Background="Transparent" MouseMove="Canvas_MouseMove" x:Name="mainRoot" RenderTransformOrigin="0.503,0.439">
+            <Button Background="SkyBlue" Foreground="Red" IsTabStop="False" Panel.ZIndex="10" Click="ButtonOK_Click" MouseEnter="ButtonOK_MouseEnter" x:Name="ButtonOK" Canvas.Left="237" Canvas.Top="20" Height="48" Width="148" RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-0.045"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform> OK
+            </Button>
+            <Button Background="OrangeRed" Foreground="White" Click="ButtonCancel_Click" x:Name="ButtonCancel" Canvas.Left="275" Canvas.Top="213" Height="26" Width="94">Cancel</Button>
+        </Canvas>
+    </Grid>
+</Window>
